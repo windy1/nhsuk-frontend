@@ -67,7 +67,7 @@ NHS website specific and uses a third party supplier for the search results. ([I
 - Remove `max-width` from service header with a logo only ([PR 705](https://github.com/nhsuk/nhsuk-frontend/pull/705))
 - Add a `max-width` to the service header with service name to accommodate longer service names ([Issue 708](https://github.com/nhsuk/nhsuk-frontend/issues/708))
 - Setting IE to use display block for the responsive table on small resolutions ([Issue 712](https://github.com/nhsuk/nhsuk-frontend/issues/712))
-
+- Changed SCSS linting package to stylelint from sass-lint, which is more extensible and actively maintained.
 
 ## 4.1.0 - 21 January 2021
 
